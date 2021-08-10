@@ -1,0 +1,27 @@
+@media only screen and (max-width: 767px) {
+    p, h1{
+        font-size: 65px;
+        margin-top: 150px;
+        margin-left: 50px
+    }
+    a:link, a:visited {
+        font-size: 35px;
+        background-color: white;
+        color: black;
+        border: 2px solid green;
+        padding: 10px 40px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin-left: 150px;
+      }
+      .mame{
+        display: none;
+    }
+    .lon{
+        display: none;
+    }
+    .nani{
+        font-size: 55px;
+    }
+}

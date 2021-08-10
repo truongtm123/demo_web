@@ -1,0 +1,47 @@
+@media screen and (min-width:992px){
+    .pupg{
+        display: none;
+      }
+      .mame{
+        padding-left: 350px;
+        width: 50%;
+    }
+    a:link, a:visited {
+        background-color: white;
+        color: black;
+        border: 2px solid green;
+        padding: 10px 40px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+
+      }
+    .lon{
+        margin-left: 350px;
+        margin-right: 300px;
+    }
+    .live{
+        margin-top: 50px;
+    }
+    .nói{
+        margin-top: 75px;
+    }
+    .eng{
+        margin-left: 25px;
+    }
+    .ci{
+        color: red;
+    }
+    .uni{
+        background-color: rgb(232, 232, 232);
+        width:70px;
+        height:70px;
+    }
+    a:-webkit-any-link {
+        cursor: pointer;
+    }
+    *{ font-family: 'Style Script', cursive; }
+    .lay{
+        margin:0 auto;
+    }
+ }
